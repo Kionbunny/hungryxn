@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      APP KE MASD
+      I LOVE MARIYA 
     </div>
   );
 }
